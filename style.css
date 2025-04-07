@@ -180,7 +180,7 @@ footer a {
 
 /* RESPONSIVIDADE */
 
-@media (max-width: 430px) {
+@media (max-width: 26.875rem) {
   main {
     width: 18.75rem;
     height: 26.5125rem;
@@ -194,19 +194,19 @@ footer a {
   }
 
   header div {
-    font-size: 0.4375rem;
+    font-size: 0.4375em;
   }
 
   .ladoDireito h1 {
-    font-size: 1.25rem;
+    font-size: 1.25em;
   }
 
   .contentD h3 {
-    font-size: 0.5625rem;
+    font-size: 0.5625em;
   }
 
   .contentD {
-    font-size: 0.44375rem;
+    font-size: 0.44375em;
   }
 
   .quadradinhoD {
@@ -238,11 +238,11 @@ footer a {
   }
 
   .tituloE {
-    font-size: 0.5625rem;
+    font-size: 0.5625em;
   }
 
   .contentE p {
-    font-size: 0.44375rem;
+    font-size: 0.44375em;
   }
 
   .contentEsquerdo {
@@ -257,15 +257,15 @@ footer a {
   }
 
   footer h2 {
-    font-size: 1.125rem;
+    font-size: 1.125em;
   }
 
   footer div {
     gap: 1.25rem;
-    font-size: 0.5625rem;
+    font-size: 0.5625em;
   }
 
   footer a {
-    font-size: 0.625rem;
+    font-size: 0.625em;
   }
 }
